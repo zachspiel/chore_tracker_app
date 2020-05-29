@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "764854109272",
+    "firebase_url": "https://choretrackerapp.firebaseio.com",
+    "project_id": "choretrackerapp",
+    "storage_bucket": "choretrackerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764854109272:android:302dfd200f0a61653fb62d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764854109272-lv5ir4733bbleb4l6ha6eopi9oulgdfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_course",
+            "certificate_hash": "f55e6ae22513020450e75a689da930e16a0e2e70"
+          }
+        },
+        {
+          "client_id": "764854109272-n75jokidpqiqjunr2aas4r1cjvs3m86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicu_04sEU7Ae4iFSN26Uz2g30k3faJGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764854109272-n75jokidpqiqjunr2aas4r1cjvs3m86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
